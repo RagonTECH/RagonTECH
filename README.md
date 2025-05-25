@@ -11,3 +11,8 @@
 
 ### 🐍 Contribution Snake
 ![Snake animation](https://github.com/RagonTECH/RagonTECH/blob/output/github-contribution-grid-snake.svg)
+      - name: Generate GitHub Contribution Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ragontech
+          embed: true
