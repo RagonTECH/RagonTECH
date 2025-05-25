@@ -8,11 +8,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=RagonTECH&show_icons=true&theme=tokyonight" height="165"/>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RagonTECH&layout=compact&theme=tokyonight" height="165"/>
 </p>
-
-### 🐍 Contribution Snake
-![Snake animation](https://github.com/RagonTECH/RagonTECH/blob/output/github-contribution-grid-snake.svg)
-      - name: Generate GitHub Contribution Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ragontech
-          embed: true
